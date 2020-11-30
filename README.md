@@ -1,5 +1,13 @@
-# git-cheat-sheet
+<h1 align="center">
+<br>
+  <img src="/img/git-logo.png" alt="Git cheat sheet" width=200"></a>
+  <br>
+    <br>
+  Git cheat sheet
+  <br><br>
+</h1>
 
+## Introduction
 A resume to everything you could need of while using GIT
 
 GOAL: increase productivity
