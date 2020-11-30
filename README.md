@@ -15,11 +15,11 @@ GOAL: increase productivity
 ## Unstage changes
 Case scenario: after a `git add .` the user realizes that node_modules or the others 4k+ files are getting committed is not what he wants
 
-COMMAND TO USE: `git reset`
-Effect: files will moved from staged to unstaged without losing anything
+**COMMAND TO USE**: `git reset`
+<br>Effect: files will moved from staged to unstaged without losing anything
 
-DO NOT RUN: `git reset --hard`
-Effect: It will not only unstage your added files, but will revert any changes you made in your working directory. If you created any new files in working directory, it will not delete them though
+**DO NOT RUN**: `git reset --hard`
+<br>Effect: It will not only unstage your added files, but will revert any changes you made in your working directory. If you created any new files in working directory, it will not delete them though
 
 
 
