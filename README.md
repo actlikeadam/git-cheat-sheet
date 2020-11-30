@@ -2,6 +2,7 @@
 
 A resume to everything you could need of while using GIT
 
+GOAL: increase productivity
 
 ## Unstage changes
 Case scenario: after a `git add .` the user realizes that node_modules or the others 4k+ files are getting committed is not what he wants
