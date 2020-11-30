@@ -4,8 +4,8 @@
   <br>
     <br>
   Git cheat sheet
-  <br><br><br><br>
 </h1>
+<br><br><br><br>
 
 ## Introduction
 A resume to everything you could need of while using GIT
