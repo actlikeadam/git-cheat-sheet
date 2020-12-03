@@ -13,7 +13,7 @@ A resume to everything you could need of while using GIT
 GOAL: increase productivity
 
 ## Unstage changes
-Case scenario: after a `git add .` the user realizes that node_modules or the others 4k+ files are getting committed is not what he wants
+Case scenario: after a `git add .` the user realizes that node_modules or the others 4k+ files are getting committed and this is not what he wants
 
 **COMMAND TO USE**: `git reset`
 <br>Effect: files will be moved from staged to unstaged without losing anything
